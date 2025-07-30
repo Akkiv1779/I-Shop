@@ -1,1 +1,2 @@
 # I-Shop
+   A grocery store project involves establishing a retail business that sells food and household supplies. These stores cater to the daily needs of the local community, offering a variety of products like staples (rice, flour, etc.), cooking ingredients, and household essentials. The project aims to provide a convenient location for customers to purchase groceries, potentially at intermediate wholesale rates for small retailers and retail prices for direct consumers. 
